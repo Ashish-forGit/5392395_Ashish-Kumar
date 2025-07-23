@@ -1,1 +1,1 @@
-![Agile Quiz Screenshot](SDLC/agile-quiz-screenshot.png)
+![Agile Quiz Screenshot](SDLC/Agile-quiz-screenshot.png)
