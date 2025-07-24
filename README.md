@@ -19,3 +19,7 @@ Welcome to the documentation of my progress in the LTTS STEPIn Pre-joining Train
 
 - Learned Git fundamentals, branching, merging, and working with GitHub.
 - Practiced hands-on commands for local and remote repository management.
+
+### 🖼️ Git Training Certificate Screenshot:
+
+![Git Training Certificate](Git%20Training/git_training_sipliLearn.png)
