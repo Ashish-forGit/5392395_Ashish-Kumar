@@ -49,3 +49,9 @@ Screenshots and command outputs demonstrating hands-on Linux command practice ar
 ### 🖼️ SoloLearn C Programming Certificate Screenshot:
 
 ![SoloLearn Introduction to C Certificate](Essentials%20of%20C%20Programming/sololearn_certificate/sololearn_c.jpg)
+
+### 🖼️ SoloLearn C Intermediate Certificate Screenshot:
+
+![SoloLearn  C Intermediate Certificate](Essentials%20of%20C%20Programming/sololearn_certificate/c_intermediate.jpg)
+
+---
