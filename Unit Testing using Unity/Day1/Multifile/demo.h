@@ -1,5 +1,5 @@
-#ifndef __DEMO_H__
-#define __DEMO_H__
+#ifndef __DEMO_H
+#define __DEMO_H
 
 int sum(int a, int b);
 int square(int a);
