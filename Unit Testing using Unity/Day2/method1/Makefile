@@ -4,7 +4,7 @@
 object.o : main.c demo.h sum.c square.c
 	gcc main.c sum.c square.c -c 
 
-all : main.o sum.o square.o
+all : main.o demo.h sum.c square.c
 	gcc main.o sum.o square.o -o all.out 
 
 run : all.out
