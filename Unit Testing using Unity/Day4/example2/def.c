@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 void swap(int *a, int *b) {
+    if (a == NULL || b == NULL) return;  // Check for null pointers
     int temp = *a;
     *a = *b;
     *b = temp;
