@@ -63,8 +63,6 @@ Screenshots and command outputs demonstrating hands-on Linux command practice ar
 - Gained experience in running test suites, organizing test files, and integrating Unity with Makefiles.
 
 ### 📅 Day-wise Practice:
-
-### 📅 Day-wise Practice:
 1. **[Day 1 – GCC Compilation & Basic Commands](Unit%20Testing%20using%20Unity/Day1)**  
    - Practiced compiling and linking C programs step-by-step:  
      1. `gcc filename.c -c` → Compile and generate object files (`.o`) for each `.c` file.  
